@@ -16,7 +16,7 @@ The Coding Club website is a landing page for parents and children looking for a
 ---
 
 ## How to View the Project
-View the deployed website here: [View the deployed website](#)
+View the deployed website here: [View the deployed website](https://ayinuer.github.io/my-first-project/)
 
 ---
 
