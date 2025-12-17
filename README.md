@@ -21,7 +21,7 @@ View the deployed website here: [View the deployed website](https://ayinuer.gith
 ---
 
 ## Credits
-* The code for the social media icon animations was taken from **[website name]**.
+* The code for the social media icon animations 
 * Thanks to my mentor **Rudy Matheson** for his patience and support as I built out this project.
 
 ---
